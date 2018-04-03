@@ -1,6 +1,6 @@
 #!/bin/bash
 IP_ROUTER=192.168.1.1
-# Account used in the router web interface (http://192.168.1.1
+# Account used in the router web interface (http://192.168.1.1)
 USER=xxx
 PASSWORD=xxx
 
